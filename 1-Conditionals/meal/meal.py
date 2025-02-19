@@ -4,7 +4,7 @@ def main():
         print("breakfast time" )
     elif 1200 <= time <= 1300:
         print("lunch time")
-    elif 1900 <= time <= 2000:
+    elif 1800 <= time <= 1900:
         print("dinner time")
     else:
         print("no meal time")
