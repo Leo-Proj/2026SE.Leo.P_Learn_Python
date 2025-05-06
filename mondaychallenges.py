@@ -1,8 +1,23 @@
-List = ["Jeremy", "Harry", "Bart"]
+def name = input("Whats your name? ")
+print(f"Happy birthday {name}!")
 
-x = input("Index? ")
 
-print(List.index(x))
+
+
+
+
+
+
+
+#List = ["Jeremy", "Harry", "Bart"]
+
+#x = input("Index? ")
+
+#print(List.index(x))
+
+
+
+
 
 #List_1 = ["Est", "Gro", "Mat"]
 #List_2 = ["Fat", "Son", "Hol"]
